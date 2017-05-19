@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<kml xmlns="http://www.opengis.net/kml/2.2">
+			<Document>
+		<Placemark id="15.399412,44.576739">
+			<name>63 - kros</name>
+			<description>63</description>
+			<Point>
+				<coordinates>15.399412,44.576739</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.054455,44.442653">
+			<name>36 - Pag Playground</name>
+			<description>36</description>
+			<Point>
+				<coordinates>15.054455,44.442653</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.945507,45.898371">
+			<name>28 - Brother Bear at Tomislavac</name>
+			<description>28</description>
+			<Point>
+				<coordinates>15.945507,45.898371</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.929829,45.887558">
+			<name>28 - Grafičar</name>
+			<description>28</description>
+			<Point>
+				<coordinates>15.929829,45.887558</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.439971,43.938610">
+			<name>22 - Obalac </name>
+			<description>22</description>
+			<Point>
+				<coordinates>15.439971,43.938610</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.444705,43.937569">
+			<name>22 - Dr. Franjo Tudjman</name>
+			<description>22</description>
+			<Point>
+				<coordinates>15.444705,43.937569</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="16.004991,45.809999">
+			<name>12 - 4 Kids on a dog</name>
+			<description>12</description>
+			<Point>
+				<coordinates>16.004991,45.809999</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.999637,45.808567">
+			<name>12 - Croatian Football Mural</name>
+			<description>12</description>
+			<Point>
+				<coordinates>15.999637,45.808567</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.920376,45.791401">
+			<name>10 - Playground Vrbani</name>
+			<description>10</description>
+			<Point>
+				<coordinates>15.920376,45.791401</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.601803,44.461682">
+			<name>9 - Restaurant Macola</name>
+			<description>9</description>
+			<Point>
+				<coordinates>15.601803,44.461682</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.915962,43.806590">
+			<name>9 - Gospa od Puta Statue</name>
+			<description>9</description>
+			<Point>
+				<coordinates>15.915962,43.806590</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.425768,41.898669">
+			<name>8 - Statua Di Marco Aurelio</name>
+			<description>8</description>
+			<Point>
+				<coordinates>12.425768,41.898669</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.466532,41.901263">
+			<name>8 - Statua su ponte Sant'Angelo - </name>
+			<description>8</description>
+			<Point>
+				<coordinates>12.466532,41.901263</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.466715,41.901118">
+			<name>8 - Chiesa Cristiana Evangelica Metodista S Angelo</name>
+			<description>8</description>
+			<Point>
+				<coordinates>12.466715,41.901118</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.466434,41.910535">
+			<name>7 - Altare Madonnina</name>
+			<description>7</description>
+			<Point>
+				<coordinates>12.466434,41.910535</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.466832,41.910376">
+			<name>7 - St. John's University</name>
+			<description>7</description>
+			<Point>
+				<coordinates>12.466832,41.910376</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.472253,41.911950">
+			<name>7 - Monumento Antonio Varisco</name>
+			<description>7</description>
+			<Point>
+				<coordinates>12.472253,41.911950</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.467186,41.892801">
+			<name>7 - Coupe Des Nains Farceurs</name>
+			<description>7</description>
+			<Point>
+				<coordinates>12.467186,41.892801</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.466942,41.893177">
+			<name>7 - Galerie Nationale D'art Antique</name>
+			<description>7</description>
+			<Point>
+				<coordinates>12.466942,41.893177</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.466845,41.893649">
+			<name>7 - Villa Farnese</name>
+			<description>7</description>
+			<Point>
+				<coordinates>12.466845,41.893649</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.466578,41.893689">
+			<name>7 - Galleria Corsini</name>
+			<description>7</description>
+			<Point>
+				<coordinates>12.466578,41.893689</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.501367,41.898267">
+			<name>6 - Viaggio Murales</name>
+			<description>6</description>
+			<Point>
+				<coordinates>12.501367,41.898267</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.498650,41.902888">
+			<name>6 - La Vergine degli Angeli</name>
+			<description>6</description>
+			<Point>
+				<coordinates>12.498650,41.902888</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.496889,41.901030">
+			<name>6 - Cinema Moderno </name>
+			<description>6</description>
+			<Point>
+				<coordinates>12.496889,41.901030</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.503160,41.895044">
+			<name>6 - Giardino Nicola Calipari</name>
+			<description>6</description>
+			<Point>
+				<coordinates>12.503160,41.895044</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.489004,41.896286">
+			<name>5 - S. Agata Dei Goti  Roma</name>
+			<description>5</description>
+			<Point>
+				<coordinates>12.489004,41.896286</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.489548,41.896110">
+			<name>5 - Scvola</name>
+			<description>5</description>
+			<Point>
+				<coordinates>12.489548,41.896110</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.489625,41.896531">
+			<name>5 - Abside</name>
+			<description>5</description>
+			<Point>
+				<coordinates>12.489625,41.896531</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.479991,41.833627">
+			<name>4 - Farmer's Statue</name>
+			<description>4</description>
+			<Point>
+				<coordinates>12.479991,41.833627</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.480359,41.835589">
+			<name>4 - Crocifisso</name>
+			<description>4</description>
+			<Point>
+				<coordinates>12.480359,41.835589</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.469164,41.837875">
+			<name>4 - Statua EUR Tre Fontane</name>
+			<description>4</description>
+			<Point>
+				<coordinates>12.469164,41.837875</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.468995,41.837595">
+			<name>4 - Aquila - Bassorilievo Salone Delle Fontane</name>
+			<description>4</description>
+			<Point>
+				<coordinates>12.468995,41.837595</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.468431,41.837918">
+			<name>4 - Roma Aeterna</name>
+			<description>4</description>
+			<Point>
+				<coordinates>12.468431,41.837918</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.468219,41.838144">
+			<name>4 - Aqua Avulsa</name>
+			<description>4</description>
+			<Point>
+				<coordinates>12.468219,41.838144</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.467827,41.838487">
+			<name>4 - Water Ancella Portal</name>
+			<description>4</description>
+			<Point>
+				<coordinates>12.467827,41.838487</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="12.466988,41.900903">
+			<name>4 - All'armi Bassorilievo</name>
+			<description>4</description>
+			<Point>
+				<coordinates>12.466988,41.900903</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.918398,43.807728">
+			<name>3 - Odmoriste Krka</name>
+			<description>3</description>
+			<Point>
+				<coordinates>15.918398,43.807728</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.230966,44.128853">
+			<name>2 - Post Office Put Petrica</name>
+			<description>2</description>
+			<Point>
+				<coordinates>15.230966,44.128853</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.217654,44.130178">
+			<name>2 - Crkva Borik</name>
+			<description>2</description>
+			<Point>
+				<coordinates>15.217654,44.130178</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.217935,44.130530">
+			<name>2 - Alojzije Stepinac</name>
+			<description>2</description>
+			<Point>
+				<coordinates>15.217935,44.130530</coordinates>
+			</Point>
+		  </Placemark>
+		<Placemark id="15.231002,44.110683">
+			<name>1 - Football Field</name>
+			<description>1</description>
+			<Point>
+				<coordinates>15.231002,44.110683</coordinates>
+			</Point>
+		  </Placemark></Document>
+		</kml>
